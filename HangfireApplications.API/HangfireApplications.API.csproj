@@ -9,10 +9,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Hangfire" Version="1.7.9" />
-    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.18" />
-    <PackageReference Include="Hangfire.Core" Version="1.7.19" />
-    <PackageReference Include="Hangfire.SqlServer" Version="1.7.19" />
+    <PackageReference Include="Hangfire" Version="1.7.24" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.24" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.24" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.24" />
     <PackageReference Include="SendGrid" Version="9.22.0" />
   </ItemGroup>
 
